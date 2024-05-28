@@ -1,0 +1,2 @@
+drone|a little white drone with red eyes|2|50|15|false
+robot|a research project gone wrong|5|100|20|false

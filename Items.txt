@@ -1,0 +1,4 @@
+bat|a metal baseball bat (+5 ATK when equipped)|1|equip|5
+spear|a broken metal spear (+3 ATK when equipped)|6|equip|3
+soda|a bottle of fizzing soda (+5 HP when consumed)|4|consume|5
+cake|a whole cake all for you (+15 HP when consumed)|3|consume|15
