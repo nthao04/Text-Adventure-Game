@@ -1,0 +1,16 @@
+Map Layout:
+ --- --- ---
+| 3 | 1 | 2 |
+ --- --- ---
+    | 4 | 5 |
+     ---|---
+        | 6 |
+         ---
+
+Rooms:
+1 Master Control Zone (Item: Bat)
+2 Supply Zone (Monster: Drone)
+3 Cafeteria (Item: Cake, Puzzle: Riddle1)
+4 Base Zone (Item: Soda)
+5 Storage Zone (Monster: Robot)
+6 Seclusion Zone (Item: Spear, Puzzle: Riddle2)
