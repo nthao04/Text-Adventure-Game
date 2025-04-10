@@ -1,2 +1,0 @@
-riddle1|What has to be broken before you can use it?|egg|3|3
-riddle2|What goes up but never comes down?|age|3|6
